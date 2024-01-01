@@ -1,0 +1,29 @@
+.header {
+    width: 100%;
+    background-color: #1c2b35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    width: 140px;
+    margin-left: 100px;
+}
+
+.anchor {
+    margin-right: 100px;
+    padding: 20px;
+    
+    
+}
+.anchor a {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.anchor a:hover {
+    color: cadetblue;
+}
